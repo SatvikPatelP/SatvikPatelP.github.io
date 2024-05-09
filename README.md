@@ -1,4 +1,3 @@
-theme: slate
 # [Your Name]
 
 ## About Me
